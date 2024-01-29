@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "V89C8T59GT.com.edriving.mentor.UniversalLinksSampleProject",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
